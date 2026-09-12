@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vaibhav Chauhan
 - 👀 I’m interested in spending time in by software and hardware engineering skills
-- 🌱 I’m currently learning C++ DSA
+- 🌱 I’m currently learning ROS2
 - 💞️ I’m looking to collaborate with like minded peoples
 - 📫 Reach me through mail chauhan08vaibhav@gmail.com
 - 😄 Pronouns: same age people can call me krsna
